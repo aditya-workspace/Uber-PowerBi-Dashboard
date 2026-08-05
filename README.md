@@ -11,7 +11,7 @@ This dashboard turns raw ride-booking data into an executive-style view of the b
 ### 1. Home / Bookings Overview
 KPIs for total bookings, completed bookings, revenue leakage, total revenue, and completion rate, plus a breakdown of booking status (completed, cancelled by driver, cancelled by customer, no driver found, incomplete) and monthly trends for bookings and revenue.
 
-![Bookings Overview](images/overview.png)
+![Bookings Overview](images/image1.png)
 
 ### 2. Cancellations & Vehicle Analysis
 Top cancellation reasons for customers and drivers, completed vs. lost bookings, ride distance and total bookings broken down by vehicle type (Auto, Go Mini, Go Sedan, Bike, Premier Sedan, Uber XL), and customer count trends by month.
